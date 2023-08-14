@@ -1,5 +1,5 @@
-# author: Larissa Munishkina
-# date: May 21, 2020
+# author: Dhruv Shukla
+# date: May 1, 2023
 # file: tictac.py a Python program that implements a tic-tac-toe game
 # input: user responses (strings)
 # output: interactive text messages and a tic-tac-toe board
