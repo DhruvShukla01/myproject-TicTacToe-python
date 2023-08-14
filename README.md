@@ -90,5 +90,8 @@ This is where the game gets challenging. The advanced AI logic resides here.
   - **Blocking Player's Wins**: Identifies potential winning moves for the human player and blocks them.
   - **Strategic Play**: Uses a set of predefined strategies (like center and corner play) to make its move when there are no immediate wins or blocking moves available.
 
-## Licence
-This project is licensed under the [MIT License](LICENSE).
+## License
+
+Theis project is licensed under the [BSD 2-Clause License](LICENSE)
+
+
